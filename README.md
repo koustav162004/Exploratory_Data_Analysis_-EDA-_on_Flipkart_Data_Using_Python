@@ -1,5 +1,8 @@
 # Exploratory Data Analysis (EDA) on Flipkart Data
+![Flipkart-logo](https://github.com/user-attachments/assets/b791c1e7-2cb5-4230-bbdc-12e40da060b3)
 
+
+## Introduction
 This project performs an Exploratory Data Analysis (EDA) on a dataset sales data from Flipkart. The goal of this analysis is to uncover insights related to customer demographics, purchasing behavior, and sales trends.
 
 ## Dataset
@@ -29,7 +32,6 @@ The dataset undergoes several data cleaning steps, including:
 1. **Removing Unrelated Columns**: Columns `Status` and `unnamed1` are removed as they are not relevant to the analysis.
 2. **Handling Missing Values**: Rows with missing values in the `Amount` column are dropped.
 3. **Data Type Conversion**: The `Amount` column is converted to integer type for consistency.
-4. **Renaming Columns**: The column `Marital_Status` is renamed to `Shaadi` for better clarity.
 
 ## Exploratory Data Analysis (EDA)
 
