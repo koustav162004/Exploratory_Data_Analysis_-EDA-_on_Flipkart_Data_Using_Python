@@ -60,13 +60,13 @@ Insights are drawn from the `Occupation` column to determine the prevalent occup
 The `Product_Category` column is analyzed to identify the most popular product categories and their sales performance. This provides insights into consumer preferences and product demand.
 
 ## Conclusion
-Maximum orders are placed by females aged between 26-35 years.
+- Maximum orders are placed by females aged between 26-35 years.
 
-Maximum orders are placed from UP, Maharashtra, and Karnataka.
+- Maximum orders are placed from UP, Maharashtra, and Karnataka.
 
-The majority of customers are from the IT sector, healthcare, and aviation.
+- The majority of customers are from the IT sector, healthcare, and aviation.
 
-Top product categories are clothing, food, and electronics."
+- Top product categories are clothing, food, and electronics."
 
 
 
