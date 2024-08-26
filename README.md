@@ -3,7 +3,7 @@
 
 
 ## Introduction
-This project performs an Exploratory Data Analysis (EDA) on a dataset sales data from Flipkart. The goal of this analysis is to uncover insights related to customer demographics, purchasing behavior, and sales trends.
+This project involves  an Exploratory Data Analysis (EDA) on a sales dataset  from Flipkart. The goal of this analysis is to uncover insights related to customer demographics, purchasing behavior, and sales trends.
 
 ## Dataset
 
